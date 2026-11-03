@@ -1,0 +1,6 @@
+@TP2BACKEND_DEFINITIVO_HostAddress = http://localhost:5026
+
+GET {{TP2BACKEND_DEFINITIVO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
